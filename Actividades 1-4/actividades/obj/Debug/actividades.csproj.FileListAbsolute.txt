@@ -1,0 +1,10 @@
+C:\Users\Búho\Documents\GitHub\Unidad_III\Actividades 1-4\actividades\bin\Debug\actividades.exe.config
+C:\Users\Búho\Documents\GitHub\Unidad_III\Actividades 1-4\actividades\obj\Debug\actividades.exe
+C:\Users\Búho\Documents\GitHub\Unidad_III\Actividades 1-4\actividades\obj\Debug\actividades.pdb
+C:\Users\Búho\Documents\GitHub\Unidad_III\Actividades 1-4\actividades\bin\Debug\actividades.exe
+C:\Users\Búho\Documents\GitHub\Unidad_III\Actividades 1-4\actividades\bin\Debug\actividades.pdb
+C:\Users\Búho\Documents\GitHub\Unidad_III\Actividades 1-4\actividades\obj\Debug\actividades.csprojResolveAssemblyReference.cache
+C:\Users\Búho\Documents\GitHub\Unidad_III\Actividades 1-4\actividades\obj\Debug\actividades.FormEstudiante.resources
+C:\Users\Búho\Documents\GitHub\Unidad_III\Actividades 1-4\actividades\obj\Debug\actividades.Form2.resources
+C:\Users\Búho\Documents\GitHub\Unidad_III\Actividades 1-4\actividades\obj\Debug\actividades.Properties.Resources.resources
+C:\Users\Búho\Documents\GitHub\Unidad_III\Actividades 1-4\actividades\obj\Debug\actividades.csproj.GenerateResource.Cache

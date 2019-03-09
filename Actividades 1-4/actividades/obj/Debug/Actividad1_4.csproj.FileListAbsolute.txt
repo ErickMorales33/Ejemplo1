@@ -1,0 +1,6 @@
+C:\Users\Búho\Desktop\actividades-20190309T042508Z-001\Actividad1_4\actividades\bin\Debug\actividades.exe.config
+C:\Users\Búho\Desktop\actividades-20190309T042508Z-001\Actividad1_4\actividades\obj\Debug\actividades.exe
+C:\Users\Búho\Desktop\actividades-20190309T042508Z-001\Actividad1_4\actividades\obj\Debug\actividades.pdb
+C:\Users\Búho\Desktop\Actividad1_4\actividades\bin\Debug\actividades.exe.config
+C:\Users\Búho\Desktop\Actividad1_4\actividades\obj\Debug\actividades.exe
+C:\Users\Búho\Desktop\Actividad1_4\actividades\obj\Debug\actividades.pdb
